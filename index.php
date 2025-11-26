@@ -22,7 +22,7 @@
           <a class="nav-link" href="index.php?p=bukutamu">Buku Tamu</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?p=pengguna">Pengguna</a>
+          <a class="nav-link" href="index.php?p=pengguna">Data Pengguna</a>
         </li>
       </ul>
     </div>
